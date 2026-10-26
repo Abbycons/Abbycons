@@ -1,18 +1,76 @@
-# 💫 About Me:
-I 'm currently working on <br>Preparing for the AWS Certified Cloud Practitioner (CLF-C02)** <br>exam while building cloud-base projects that combine my software engineering skills with AWS service.<br><br>I 'm looking  to collaborate on <br>Cloud-native application, Python-based projects, and beginner-friendly  **DevOps/automation tools** that leaverage AWS.<br><br>I 'm looking for help with<br>Best practices in **AWS architecture**, real-world **cloud project ideas** and guidance for transitioning from AWS Practitioner to<br>**AWS Solutions Architect Associate**. <br><br>I 'm currently learning<br>- AWS Global Infrastructure Core AWS Service ( EC2, S3, RDS, Lambda)<br>- Cloud security and compliance and cost optimisation<br>- Infrastructure as Code (IaC) with AWS CloudFormation & Terraform<br>- Advanced Python for automation and scripting<br><br>Ask me about<br>- **Python programming**  (beginner to intermediate)<br>- **Software engineering practices**<br>- Getting started with **AWS Cloud** and Certification prep<br><br>Fun fact<br>I see coding as solving puzzles -and cloud computing just adds a bigger playground to build creative solutions..<br><br>
+# 💫 About Me
+# Hi, I'm Abigail Conteh
 
+### Junior Cloud & DevOps Engineer | AWS Certified Cloud Practitioner
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abigail-conteh-94b692303/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qbangs@me.com) 
+I am a Junior Cloud & DevOps Engineer with a background in Software Engineering and hands-on experience gained through a DevOps internship, technical training, and practical projects.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abbycons&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abbycons&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbycons&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My focus is on **AWS cloud infrastructure, DevOps automation, Infrastructure as Code, and CI/CD workflows**. I enjoy building practical solutions that improve development workflows, simplify deployments, and support reliable applications.
 
----
-[![](https://visitcount.itsvg.in/api?id=Abbycons&icon=0&color=0)](https://visitcount.itsvg.in)
+I am currently looking for opportunities as a **Junior Cloud Engineer, Junior DevOps Engineer, or Cloud Operations Engineer** in Germany.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Professional Focus
+
+* **Cloud Computing:** AWS, including EC2, S3, and RDS
+* **Infrastructure as Code:** Terraform
+* **Containers:** Docker and Kubernetes
+* **CI/CD Automation:** GitHub Actions, automated builds, testing, and workflow checks
+* **Programming:** Python and JavaScript
+* **Backend Development:** REST APIs, Flask, and SQL
+* **Developer Productivity:** Makefiles, troubleshooting, and technical documentation
+
+## Featured Projects
+
+### CI/CD Pipeline — Go Backend
+
+**Technologies:** Go, GitHub Actions, Docker
+
+* Built a CI/CD workflow using GitHub Actions.
+* Automated build and test processes.
+* Containerized the application using Docker.
+* Configured automated checks for pull requests.
+
+[View Repository](https://github.com/Abbycons/learn-cicd-starter)
+
+### AWS Grocery — Cloud Deployment Project
+
+**Technologies:** AWS, Docker
+
+* Deployed a web application using AWS cloud infrastructure.
+* Worked with cloud resources for application hosting and deployment.
+* Applied containerization and deployment practices.
+
+[View Repository](https://github.com/Abbycons/AWS_grocery)
+
+### Developer Workflow Automation
+
+**Technologies:** Makefiles, Docker, Testing, Documentation
+
+* Developed Makefile commands to simplify local development tasks.
+* Automated routine operations involving Docker, testing, logs, and database access.
+* Improved setup documentation to help developers get started more easily.
+
+*Add a link to the relevant repository when available.*
+
+## Certifications
+
+* **AWS Certified Cloud Practitioner**
+
+## Currently Developing My Skills
+
+* AWS architecture and core cloud services
+* Cloud security, reliability, and cost optimization
+* Infrastructure as Code with Terraform
+* Python scripting and automation
+* Cloud deployment and DevOps best practices
+
+## Collaboration Interests
+
+I am interested in collaborating on AWS projects, Python-based applications, cloud-native solutions, and beginner-friendly DevOps automation projects where I can contribute my skills and learn from other developers.
+
+## Let's Connect
+
+* **LinkedIn:** [Abigail Conteh](https://www.linkedin.com/in/abigail-conteh-94b692303/)
+* **GitHub:** [Abbycons](https://github.com/Abbycons)
+
+**Languages:** English (Native) | German (C1)
